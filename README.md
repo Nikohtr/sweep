@@ -12,10 +12,14 @@ to snap, move, minimize and close windows. Gestures also work on Dock icons and 
 
 ## Install
 
-1. Download `Sweep-<version>.zip` from [Releases](https://github.com/Nikohtr/sweep/releases/latest) and open it.
-2. Open `Sweep.app`. Sweep offers to move itself to the Applications folder: click **Move to Applications**.
-3. Sweep is not notarized, so macOS blocks the first start. Go to System Settings › Privacy & Security
-   and click **Open Anyway** next to the message about Sweep. Then open Sweep again.
+1. Download `Sweep-<version>.dmg` from [Releases](https://github.com/Nikohtr/sweep/releases/latest) and open it.
+2. Drag **Sweep** onto the **Applications** folder in the window.
+3. Open Sweep from Applications. Sweep is not notarized, so macOS blocks the first start. Go to
+   System Settings › Privacy & Security and click **Open Anyway** next to the message about Sweep.
+   Then open Sweep again.
+
+The release also has `Sweep-<version>.zip` with the same app. If you use it, Sweep offers to move itself to
+the Applications folder.
 
 Updates install from inside the app (Settings › About › Check for Updates…) and do not show this warning again.
 
