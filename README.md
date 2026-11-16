@@ -82,12 +82,15 @@ Pinch: it closes. It feels like the trackpad always could do this.
 
 ## Get started in a minute
 
-1. **Download** `Sweep-<version>.zip` from [Releases](https://github.com/Nikohtr/sweep/releases/latest) and open it.
-2. **Open `Sweep.app`** and click **Move to Applications**.
-3. **Allow the first start.** Sweep is not notarized, so macOS blocks it once. Go to
+1. **Download** `Sweep-<version>.dmg` from [Releases](https://github.com/Nikohtr/sweep/releases/latest) and open it.
+2. **Drag Sweep** onto the **Applications** folder in the window.
+3. **Allow the first start.** Open Sweep from Applications. Sweep is not notarized, so macOS blocks it once. Go to
    System Settings › Privacy & Security, click **Open Anyway** next to the message about Sweep, then open Sweep again.
 4. **Allow Accessibility.** The Welcome window asks for it. Click **Allow…**, then turn on **Sweep** in
    Privacy & Security › Accessibility.
+
+The release also has `Sweep-<version>.zip` with the same app. If you use it, Sweep offers to move itself to
+the Applications folder.
 
 That's it. The Welcome window shows you each gesture, and Sweep lives quietly in your menu bar from then on.
 Updates install from inside the app (Settings › About › Check for Updates…) without the warning.
