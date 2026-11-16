@@ -1,0 +1,14 @@
+.build/
+build/
+*.xcuserstate
+.DS_Store
+
+# Release keys and output: never commit
+*.p12
+*.key
+/release/
+
+# Local files, never committed
+CLAUDE.md
+.local/
+*.local.*
